@@ -76,7 +76,7 @@ public class Main {
                 float Sk = Sb + sphere;
                 //Обьём
                 float Vk = 0.3f*hk*sphere;
-                System.out.println("Площадь поверхности конуса: " + Sk + "\nОбьём конуса: " + Sk);
+                System.out.println("Площадь поверхности конуса: " + Sk + "\nОбьём конуса: " + Vk);
                 break;
             default:
                 System.out.println("Вы ввели что-то не то");
